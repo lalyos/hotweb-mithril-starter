@@ -1,0 +1,11 @@
+body {
+  background-color: lightgray;
+}
+ul {
+  padding: 0px;
+}
+li {
+  border-bottom-style: inset;
+  list-style-type: none;
+  padding: 8px;
+}
